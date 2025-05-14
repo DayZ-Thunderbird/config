@@ -27,6 +27,8 @@ declare -A MODS=(
   [3444350187]="TGK WeaponPack"
 
   # Gameplay
+  [1710977250]="BBP"
+  [1646187754]="Code Lock"
   [3471358849]="GlobalChatPlus"
   [2536780687]="SkyZ"
   [2345073965]="CJ187-LootChest"
@@ -36,11 +38,9 @@ declare -A MODS=(
   [1564026768]="Community-Online-Tools"
   
   # Custom buildings
-  [1710977250]="BBP"
   [2276010135]="DayZ Editor Loader"
   [3469320529]="Military Objects Pack"
   [3436495227]="Large 7 Storey Building"
-  [1646187754]="Code Lock"
 
   # Events
   [2491484149]="Helicrash Licensed"
